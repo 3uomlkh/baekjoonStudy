@@ -1,4 +1,4 @@
-package bronze3;
+package bronze3_cw;
 
 import java.io.*;
 public class 팰린드롬인지_확인하기 {

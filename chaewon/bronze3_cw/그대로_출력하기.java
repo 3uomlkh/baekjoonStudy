@@ -1,4 +1,4 @@
-package bronze3;
+package bronze3_cw;
 
 import java.io.*;
 public class 그대로_출력하기 {

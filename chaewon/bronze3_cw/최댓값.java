@@ -1,7 +1,7 @@
-package bronze3;
+package bronze3_cw;
 
 import java.io.*;
-import java.util.*;
+
 public class 최댓값 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
